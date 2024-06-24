@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/8oH8aWc3)
 基于超分辨率与高动态范围成像技术中国海洋大学校史图像处理 
                        项目报告
-               宫政和  鲍斌  李培立  吕浩擎
+               宫政和  鲍斌  李培立  吕昊擎
 项目报告word版在主页 CV项目报告.docx文件  内有配图 
 b站视频链接：【CV汇报-基于超分辨率与高动态范围成像技术中国海洋大学校史图像处理】 https://www.bilibili.com/video/BV1f6421f7Ta/?share_source=copy_web&vd_source=fd93408b02c89d495b8aa874cd0f59fb
 描述项目的介绍、文献综述、方法实现等内容。
